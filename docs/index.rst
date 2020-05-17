@@ -2,6 +2,12 @@
 sphinx-panels
 =============
 
+.. toctree::
+    :hidden:
+
+    index
+
+
 A sphinx extension for creating panels in a grid layout or as drop-downs.
 
 - The ``panels`` directive creates panels of content in a grid layout, utilising both the bootstrap 4
