@@ -74,7 +74,10 @@ pygments_style = "sphinx"
 # a list of builtin themes.
 #
 # html_theme = "alabaster"
-html_theme = "sphinx_rtd_theme"
+html_theme = "alabaster"
+html_css_files = [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+]
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
